@@ -1,2 +1,2 @@
 # Assets
-Assets for readme
+Assets for readme.
